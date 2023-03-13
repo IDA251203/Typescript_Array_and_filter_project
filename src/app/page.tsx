@@ -1,7 +1,6 @@
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import styles from './page.module.css'
-import { SimpleTypeProps } from './components/propstype'
 import Backlog from './backlog';
 import Inprogress from './inprogress';
 import Done from './done';
