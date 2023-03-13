@@ -1,0 +1,75 @@
+[
+    {
+      "id":1,
+      "title":"Analyze the new requirement gathered fro..",
+      "image":"/images/person1.jpg",
+      "type":"backlog"
+    },
+    {
+      "id":2,
+      "title":"Analyze the new requirement gathered fro..",
+      "image":"/images/person2.jpg",
+      "type":"inprogress"
+    },
+    {
+      "id":3,
+      "title":"Analyze the new requirement gathered fro..",
+      "image":"/images/person3.jpg",
+      "type":"backlog"
+    },
+    {
+      "id":4,
+      "title":"Analyze the new requirement gathered fro..",
+      "image":"/images/person4.jpg",
+      "type":"inprogress"
+    },
+    {
+      "id":5,
+      "title":"Analyze the new requirement gathered fro..",
+      "image":"/images/person5.jpg",
+      "type":"done"
+    },
+    {
+      "id":6,
+      "title":"Analyze the new requirement gathered fro..",
+      "image":"/images/person6.jpg",
+      "type":"backlog"
+    },
+    {
+      "id":7,
+      "title":"Analyze the new requirement gathered fro..",
+      "image":"/images/person7.jpg",
+      "type":"inprogress"
+    },
+    {
+      "id":8,
+      "title":"Analyze the new requirement gathered fro..",
+      "image":"/images/person8.jpg",
+      "type":"done"
+    },
+    {
+      "id":9,
+      "title":"Analyze the new requirement gathered fro..",
+      "image":"/images/person9.jpg",
+      "type":"backlog"
+    },
+    {
+      "id":10,
+      "title":"Analyze the new requirement gathered fro..",
+      "image":"/images/person10.jpg",
+      "type":"done"
+    },
+    {
+      "id":11,
+      "title":"Analyze the new requirement gathered fro..",
+      "image":"/images/person11.jpg",
+      "type":"backlog"
+    },
+    {
+      "id":12,
+      "title":"Analyze the new requirement gathered fro..",
+      "image":"/images/person12.jpg",
+      "type":"backlog"
+    }
+  
+  ]
